@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             JSONObject questionObj = new JSONObject(questionsJson);
             JSONArray results = questionObj.getJSONArray("results");
             JSONObject singleObj=new JSONObject(results.get(0).toString());
-            String question= singleObj.getString("question");
+            String question= singleObj.getStri"question");
 
 
 
