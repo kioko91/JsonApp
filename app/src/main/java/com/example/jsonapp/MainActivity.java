@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
 
             Log.d("tag_singleObj", "onCreate:" +question);
-        } catch (JSONExce
+        } catch (JSONExc
         }
 
 
