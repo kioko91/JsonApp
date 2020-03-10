@@ -26,8 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
 
             Log.d("tag_singleObj", "onCreate:" +question);
-        } catch (JSONException e) {
-            e.printStackTrace();
+        } catch (JSONExce
         }
 
 
